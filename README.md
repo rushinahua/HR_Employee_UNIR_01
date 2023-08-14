@@ -19,6 +19,16 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 ## Requisitos
 Python 3.6 + con los siguientes paquetes:
+-pandas 
+-numpy
+-matplotlib
+-seaborn
+-plotly
+-sklearn
+
+## Autor
+Robert Ushiñahua
+
 
 
 
